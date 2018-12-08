@@ -3,6 +3,12 @@
     Deimos is a multi-functional Discord Bot that brings ease to the community, offering various essential functions each Discord Server       <strong>must</strong> have! With an ever-evolving dynamic team behind Deimos, it's capabilities are limitless!
 </h2>
 <h3 align="center">
+	Information:
+</h3>
+<p align="center>
+	  <strong>Default Prefix:</strong> "!"
+</p>
+<h3 align="center">
     Functions:
 </h3>
 <p align="center">
