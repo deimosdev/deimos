@@ -4,7 +4,8 @@
 </h2>
 <h3 align="center">
     Functions:
-    <p align="center">
+</h3>
+<p align="center">
 		<strong>!help</strong> | Sends a help interface!
     </p>
     <p align="center">
@@ -46,4 +47,3 @@
     <p align="center">
         <strong>!invite</strong> | Invite links for the bot
     </p>
-</h3>
