@@ -1,6 +1,12 @@
 <img src="https://cdn.discordapp.com/attachments/520896061070508032/520970809448333333/Deimos_Yee.jpg">
 <h2 align="center">
     Deimos is a multi-functional Discord Bot that brings ease to the community, offering various essential functions each Discord Server       <strong>must</strong> have! With an ever-evolving dynamic team behind Deimos, it's capabilities are limitless!
+    <a href="https://discordbots.org/bot/518388565634449408" >
+  <img src="https://discordbots.org/api/widget/status/518388565634449408.svg" alt="Deimos" />
+	<a href="https://discordbots.org/bot/518388565634449408" >
+  <img src="https://discordbots.org/api/widget/owner/518388565634449408.svg" alt="Deimos" />
+</a>
+</a>
 </h2>
 <h3 align="center">
 	Information:
