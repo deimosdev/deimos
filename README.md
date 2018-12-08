@@ -5,8 +5,27 @@
 <h3 align="center">
 	Information:
 </h3>
-<p align="center>
-	  <strong>Default Prefix:</strong> "!"
+<p align="center">
+	<a href="http://clementmichaud.com/">Deimos' Website</a>
+</p>
+<p align="center">
+	<a href="http://bit.ly/deimosbot">Deimos' Invite Link</a>
+</p>
+<p align="center">
+	<a href="http://bit.ly/deimosbotdiscord">Deimos' Discord Server</a>
+</p>
+
+<p align="center">
+	<strong>Default Prefix:</strong> "!"
+</p>
+<h3 align="center">
+	Setup:
+</h3>
+<p align="center">
+	<strong>Welcome Channel:</strong> !setwelcome (desired welcome channel)
+</p>
+<p align="center">
+	<strong>Join Role:</strong> !setjoinrole (desired join role)
 </p>
 <h3 align="center">
     Functions:
